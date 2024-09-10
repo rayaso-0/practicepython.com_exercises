@@ -1,7 +1,9 @@
+# --------------------
 # Python Exercise Number 2
 # Exercise: https://www.practicepython.org/exercise/2014/02/05/02-odd-or-even.html
 # Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message to the user.
 # Date: Mon Sep 9 2024
+# --------------------
 
 # Ask for the input integer
 num = int(input("Give me a number: "))
