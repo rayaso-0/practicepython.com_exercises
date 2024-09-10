@@ -1,2 +1,1 @@
-'word'
-print(word)
+
