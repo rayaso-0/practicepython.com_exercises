@@ -20,7 +20,7 @@ print (b)
 numbers = [7,3,13,6,8,5,1,2,4,15,9,10,12,14,11]
 lessFnums = []
 lessNnums =[]
-#Instead of printing the elements one by one, make a new list that has all the elements less than 5 from this list in it and print out this new list.
+# Instead of printing the elements one by one, make a new list that has all the elements less than 5 from this list in it and print out this new list.
 for num in numbers:
     if num < 5: #Compare numbers in list against 5
         lessFnums.append(num) #Add numbers that are less than 5 to our list
